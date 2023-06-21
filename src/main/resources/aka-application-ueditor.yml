@@ -1,0 +1,14 @@
+#上传的插件类
+aka:
+  ueditor:
+    uploader-plugin: com.github.ulwx.aka.ueditor.support.MyUploader
+    #直连上传的URL，用于图片，文件，视频上传的直连URL
+#    direct-upload-url: http://localhost:9090/fileserver/uploadfile/upload-Upload-genBean.action
+
+
+
+
+
+
+
+
