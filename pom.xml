@@ -11,7 +11,6 @@
 		<relativePath>../aka-common-parent/pom.xml</relativePath>
 	</parent>
 	<name>aka-ueditor-ext</name>
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
